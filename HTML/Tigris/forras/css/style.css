@@ -1,0 +1,80 @@
+body{
+    background-color: #e8e2e1;    
+}
+
+h1, h2{
+    color: #5c3829;  
+}
+h1{
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+h2{
+    font-variant: small-caps;
+    letter-spacing: 1px;
+    line-height: 70px;
+}
+h3{
+    margin-top: 15px;
+    font-weight: bold;
+}
+p{
+    text-align: justify;
+    text-indent: 20px;
+}
+img{
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.5);
+}
+
+.felkover{    
+    color: rgb(16, 37, 82);
+    font-weight: bold;
+}
+
+.dolt{
+    color: rgb(16, 37, 82);
+    font-style: italic;
+    font-family: 'Courier New';
+}
+
+.jobbra a, #link a{
+    color: rgb(16, 37, 82);
+    font-variant: small-caps;    
+    padding: 5px;
+    text-decoration: none;
+}
+
+.jobbra a:hover, #link a:hover{
+    background-color: white;
+}
+
+.jobbra{
+    text-align: right;
+    font-style: italic;
+}
+.navbar{
+    background-color: #024600;
+}
+footer{
+    background-color: #024600;
+}
+#fejlec{
+    height: 350px;
+    background-image: url(../img/tiger_bg.jpg);
+    background-position: center;
+    background-size: cover;
+}
+main ul li{
+    list-style-image: url(../img/tiger.png);
+}
+#taplalek{
+    background-color: rgba(255, 255, 255, 0.4);
+    width: 80%;
+    font-size: 120%;
+    border: 5px double #5c3829;
+    padding: 10px 20px 10px 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}

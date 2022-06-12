@@ -1,0 +1,50 @@
+body{
+    background-image: url(../img/background/keith-misner-h0Vxgz5tyXA-unsplash.jpg);
+    color: #4d0808;
+}
+#kutyaoldal{
+    background-color: rgba(255, 255, 255, 0.6);
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding: 20pt;
+}
+a{
+    color: #4d0808;
+}
+h1{
+    text-align: center;
+}
+p{
+    line-height: 150%;
+    text-indent: 1cm;
+}
+.minikep{
+    float: right;
+    width: 400pt;
+    margin-left: 20pt;
+    border: solid 3pt #4d0808;
+}
+table{
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+}
+td{
+    padding: 0.5rem;
+    border: 2pt solid #aa7777;
+}
+.kepek{
+    text-align: center;
+    float: none;
+}
+.kep{
+    width: 280pt;
+    vertical-align: middle;
+    background-color: white;
+    padding: 10pt;
+    margin: 5pt;
+    border: 1pt solid #4d0808;
+    box-shadow: 3pt 3pt 10pt #4d0808;
+}
